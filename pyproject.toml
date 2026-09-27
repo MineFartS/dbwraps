@@ -1,5 +1,5 @@
 [build-system]
-requires = [ "pybind-setup-ext @ git+https://github.com/MineFartS/pybind-setup-ext",]
+requires = [ "setuptools>=74.1",]
 build-backend = "setuptools.build_meta"
 
 [project]
